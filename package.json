@@ -1,7 +1,7 @@
 {
-    "name": "reactjs-vite-tailwind-vercel",
+    "name": "online-earning-guide",
     "version": "1.0.0",
-    "description": "ReactJS app with Vite, Tailwind",
+    "description": "A comprehensive guide to online earning methods",
     "type": "module",
     "scripts": {
         "dev": "vite",
